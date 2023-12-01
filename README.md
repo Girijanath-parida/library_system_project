@@ -1,6 +1,6 @@
 # library_system_project
 Library inventory project
-Library Management System
+
 This is a Python program that implements a basic library system called "Treasure of books Library." The program allows users to perform various operations such as adding books, modifying quantities, deleting books, and displaying the remaining books.
 
 Usage
