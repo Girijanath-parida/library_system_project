@@ -25,5 +25,5 @@ This option allows you to delete a book from the library. You will be prompted t
 This option displays the remaining books in the library along with their quantities. The program reads the book details from the library.txt file and prints them on the screen.
 5. Exit
 Selecting this option will exit the program.
-![image](https://github.com/Girijanath-parida/library_system_project/assets/68890970/8b725277-2f69-4af9-99b3-9448d45e0193)
+
 
