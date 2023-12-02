@@ -33,7 +33,9 @@ Selecting this option will exit the program.
 File Structure
 
 library.py: The main Python script that implements the library management system.
+
 library.txt: The text file that stores the book details (name and quantity) in a comma-separated format.
+
 temp.txt: A temporary file used for updating the book quantities.
 
 
